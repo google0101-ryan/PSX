@@ -1,0 +1,11 @@
+
+PS-X Realtime Kernel Ver.2.5
+Copyright 1993,1994 (C) Sony Computer Entertainment Inc. 
+KERNEL SETUP!
+
+Configuration : EvCB	0x10		TCB	0x04
+System ROM Version 2.2 12/04/95 A
+Copyright 1993,1994,1995 (C) Sony Computer Entertainment Inc.
+ResetCallback: _96_remove ..
+System Controller ROM Version 94/09/19 c0
+PS-X Control PAD Driver  Ver 3.0
