@@ -8,6 +8,8 @@
 
 class GPU;
 
+// Heavily based off of pctation, an emulator at https://github.com/VelocityRa/pctation
+
 namespace renderer
 {
 
